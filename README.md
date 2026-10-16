@@ -1,9 +1,11 @@
-# docuhook
+# docuhook-client
 
 Official [DocuHook](https://docuhook.com) Python client (stdlib only — no third-party deps).
 
+> PyPI name is `docuhook-client` because `docuhook` was already taken.
+
 ```bash
-pip install docuhook
+pip install docuhook-client
 ```
 
 ```python
